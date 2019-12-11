@@ -1,0 +1,50 @@
+"Tips and Tricks" lets you jump right in and learn how to be productive with Visual Studio Code. You'll become familiar with its powerful editing, code intelligence, and source code control features and learn useful keyboard shortcuts. This topic goes pretty fast and provides a broad overview, so be sure to look at the other in-depth topics in Getting Started and the User Guide to learn more.
+
+If you don't have Visual Studio Code installed, go to the Download page. You can find platform specific setup instructions at Running VS Code on Linux, macOS, and Windows.
+
+Basics
+Getting started
+Open the Welcome page to get started with the basics of VS Code. Help > Welcome.
+
+welcome page
+
+In the bottom right of the Welcome page, there is a link to the Interactive playground where you can interactively try out VS Code's features. Help > Interactive Playground.
+
+interactive playground
+
+Command Palette
+Access all available commands based on your current context.
+python is here
+Keyboard Shortcut: Ctrl+Shift+P
+
+command palette
+
+Default keyboard shortcuts
+All of the commands are in the Command Palette with the associated key binding (if it exists). If you forget a keyboard shortcut, use the Command Palette to help you out.
+
+keyboard references
+
+Keyboard reference sheets
+Download the keyboard shortcut reference sheet for your platform (macOS, Windows, Linux).
+
+Keyboard Reference Sheet
+
+Quick Open
+Quickly open files.
+
+Keyboard Shortcut: Ctrl+P
+
+Quick Open
+
+Tip: Type ? to view help suggestions.
+
+Navigate between recently opened files
+Repeat the Quick Open keyboard shortcut to cycle quickly between recently opened files.
+
+Open multiple files from Quick Open
+You can open multiple files from Quick Open by pressing the Right arrow key. This will open the currently selected file in the background and you can continue selecting files from Quick Open.
+
+Command line
+VS Code has a powerful command line interface (CLI) which allows you to customize how the editor is launched to support various scenarios.
+
+Make sure the VS Code binary is on your path so you can simply type 'code' to launch VS Code. See the platform specific setup topics if VS Code is added to your environment path during installation (Running VS Code on Linux, macOS, Windows).
